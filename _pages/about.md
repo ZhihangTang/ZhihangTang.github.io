@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-汤志航，之江实验室智能计算设施创新中心助理研究员。分别于2018 年、2021 年获得上海电力大学工学学士
-学位和浙江大学工学硕士学位，2023 年9 月至今在天津大学智能与计算学部攻读博士学位。主要研究方向为分
-布式计算、大模型系统、人工智能等。在相关领域发表论文和专利近十篇，获得IFIP NPC’24 最佳论文奖。
+汤志航，之江实验室智能计算设施创新中心助理研究员。分别于2018 年、2021 年获得上海电力大学工学学士学位和浙江大学工学硕士学位，2023 年9 月至今在天津大学智能与计算学部攻读博士学位。主要研究方向为分布式计算、大模型系统、人工智能等。在相关领域发表论文和专利近十篇，获得IFIP NPC’24 最佳论文奖。
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -27,13 +25,12 @@ redirect_from:
 - 边缘计算
 - 人工智能
 
-
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - 2027.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 天津大学 智能与计算学部,电子信息（计算机技术） ，博士研究生
-- *2018.09 - 2021.03*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 浙江大学 控制科学与工程学院, 控制科学与工程 ，硕士
-- *2012.09 - 2018.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 上海电力大学 自动化工程学院, 自动化, 学士
+- *2023.09 - 2027.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/tju_logo.svg" width="23pt"></a> 天津大学 智能与计算学部,电子信息（计算机技术） ，博士研究生
+- *2018.09 - 2021.03*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/zju_logo.svg" width="23pt"></a> 浙江大学 控制科学与工程学院, 控制科学与工程 ，硕士
+- *2012.09 - 2018.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/suep_logo.svg" width="20pt"></a> 上海电力大学 自动化工程学院, 自动化, 学士
 
 <span class='anchor' id='-lwzl'></span>
 
@@ -166,6 +163,6 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2019.03 - 2019.06*, 杭州群核科技有限公司, 算法工程师
+- *2019.10 - 2020.03, 杭州海康威视数字技术股份有限公司,算法工程师
+- *2020.05- 2020.09*, 之江实验室融合智能研究中心, 算法工程师
