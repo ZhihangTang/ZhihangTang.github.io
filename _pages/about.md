@@ -73,9 +73,8 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2024.12*,The IFIP International Conference on Network and Parallel Computing  , 海南海口, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+- *2024.12*,The IFIP International Conference on Network and Parallel Computing(NPC'24)  , 海南海口, 受邀报告
+- *201X.09*, XX会议 (XX 2019), 江苏南京, 海报
 
 <span class='anchor' id='-gzsx'></span>
 
