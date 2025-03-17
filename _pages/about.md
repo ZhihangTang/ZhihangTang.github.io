@@ -27,7 +27,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 教育背景
 - *2023.09 - 2027.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.svg" width="23pt"></a> 天津大学 智能与计算学部,电子信息（计算机技术） ，博士研究生
 - *2018.09 - 2021.03*, <a href="https://www.zju.edu.cn/"><img class="svg" src="/images/zju_logo.svg" width="23pt"></a> 浙江大学 控制科学与工程学院, 控制科学与工程 ，硕士
 - *2012.09 - 2018.06*, <a href="https://www.shiep.edu.cn/"><img class="svg" src="/images/suep_logo.svg" width="23pt"></a> 上海电力大学 自动化工程学院, 自动化, 学士
@@ -162,7 +162,7 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
+- *2024.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
 
