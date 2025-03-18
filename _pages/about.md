@@ -38,19 +38,20 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
-待整理
-
 
 ### 英文
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPC'24</div><img src='images/npc24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPC'24</div><img src='images/npc24.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
--	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The IFIP International Conference on Network and Parallel Computing  2024 (NPC’24), CCF-C, full paper, 🏆`Best Paper Award`.  
-  [[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The IFIP International Conference on Network and Parallel Computing  2024 (*NPC’24*), CCF-C, full paper, 🏆`Best Paper Award`.  
+  [[网页]](https://) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 </div>
 </div>
+
+- `Zhihang Tang`,Chenxi Li, Xiang Yang, Bo He, Qi Qi, Jingyu Wang, Laiping Zhao. Shuffle-Exchange: Enhancing Collective Communication Efficiency for Large Model Training. The 45th IEEE International Conference on Distributed Computing Systems 2025 (*ICDCS’25*), CCF-B, full paper,Under Reviewing. 
+[[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
 
 ### 中文
 ---
@@ -92,7 +93,7 @@ redirect_from:
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
+# 💻 实习经历
 - *2019.03 - 2019.06*, 杭州群核科技有限公司, 算法工程师
 - *2019.10 - 2020.03, 杭州海康威视数字技术股份有限公司,算法工程师
 - *2020.05- 2020.09*, 之江实验室融合智能研究中心, 算法工程师
