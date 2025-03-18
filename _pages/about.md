@@ -45,7 +45,6 @@ redirect_from:
 
 ### 会议论文
 ---
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPC'24</div><img src='images/npc24.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The IFIP International Conference on Network and Parallel Computing  2024 (*NPC’24*), CCF-C, full paper, 🏆`Best Paper Award`.  
