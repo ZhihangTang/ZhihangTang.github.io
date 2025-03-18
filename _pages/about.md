@@ -28,8 +28,8 @@ redirect_from:
 <span class='anchor' id='-jybj'></span>
 
 # 🎓 教育背景
-- *2023.09 - 2027.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.svg" width="21pt"></a> 天津大学 智能与计算学部,电子信息（计算机技术） ，博士研究生
-- *2018.09 - 2021.03*, <a href="https://www.zju.edu.cn/"><img class="svg" src="/images/zju_logo.svg" width="21pt"></a> 浙江大学 控制科学与工程学院, 控制科学与工程 ，硕士
+- *2023.09 - 2027.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.svg" width="21pt"></a> 天津大学 智能与计算学部,电子信息(计算机技术), 博士研究生
+- *2018.09 - 2021.03*, <a href="https://www.zju.edu.cn/"><img class="svg" src="/images/zju_logo.svg" width="21pt"></a> 浙江大学 控制科学与工程学院, 控制科学与工程, 硕士
 - *2012.09 - 2018.06*, <a href="https://www.shiep.edu.cn/"><img class="svg" src="/images/suep_logo.svg" width="21pt"></a> 上海电力大学 自动化工程学院, 自动化, 学士
 
 <span class='anchor' id='-gzjl'></span>
@@ -37,7 +37,7 @@ redirect_from:
 # 💻 工作经历
 - *2015.09 - 2017.09*, <a href="http://www.81.cn/wj_208567/index.html"><img class="svg" src="/images/pap.jpg" width="21pt"></a> 中国人民武装警察部队，侦察员
 - *2021.04 - 至今*, <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="21pt"></a> 之江实验室 智能计算设施创新中心, 助理研究员
-
+- *2022.07 - 2024.08*, <a href="https://www.htrdc.com/gjszx/"><img class="svg" src="/images/htrdc_logp.jpg" width="21pt"></a> 国家自然科学基金委员会高技术研究发展中心, 项目管理
 
 <span class='anchor' id='-lwzl'></span>
 
