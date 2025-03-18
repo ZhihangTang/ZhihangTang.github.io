@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 个人简介
-汤志航，之江实验室智能计算设施创新中心助理研究员。分别于2018 年、2021 年获得上海电力大学工学学士学位和浙江大学工学硕士学位，2023 年9 月至今在天津大学智能与计算学部攻读博士学位。主要研究方向为分布式计算、边缘计算、大模型系统、人工智能等。在相关领域发表论文和专利近十篇，获得IFIP NPC’24 最佳论文奖。
+汤志航，之江实验室智能计算设施创新中心助理研究员，曾服役于中国人民警察8730部队。分别于2018 年、2021 年获得上海电力大学工学学士学位和浙江大学工学硕士学位，2023 年9 月至今在天津大学智能与计算学部攻读博士学位。主要研究方向为分布式计算、边缘计算、大模型系统、人工智能等。在相关领域发表论文和专利近十篇，获得IFIP NPC’24 最佳论文奖。
 
 <!--
 
@@ -35,7 +35,7 @@ redirect_from:
 <span class='anchor' id='-gzjl'></span>
 
 # 💻 工作经历
-- *2015.09 - 2017.09*, <a href="/"><img class="svg" src="/images/pap.jpg" width="21pt"></a> 中国人民武装警察部队，侦察员
+- *2015.09 - 2017.09*, <a href="http://www.81.cn/wj_208567/index.html"><img class="svg" src="/images/pap.jpg" width="21pt"></a> 中国人民武装警察部队，侦察员
 - *2021.04 - 至今*, <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="21pt"></a> 之江实验室 智能计算设施创新中心, 助理研究员
 
 
@@ -43,7 +43,7 @@ redirect_from:
 
 # 📝 论文专利
 
-### 英文
+### 会议论文
 ---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPC'24</div><img src='images/npc24.jpg' alt="sym" width="90%"></div></div>
@@ -57,12 +57,12 @@ redirect_from:
 - `Zhihang Tang`,Chenxi Li, Xiang Yang, Bo He, Qi Qi, Jingyu Wang, Laiping Zhao. Shuffle-Exchange: Enhancing Collective Communication Efficiency for Large Model Training. The 45th IEEE International Conference on Distributed Computing Systems 2025 (*ICDCS’25*), CCF-B, full paper,Under Reviewing. 
 [[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
 
-### 中文
+### 期刊论文
 ---
 
 
 
-### 专利
+### 发明专利
 ---
 - 张铭扬, 高丰, `汤志航`, 杨涛, 郑欢欢, 王晓江, 郁善金. 面向边缘计算的重参数神经网络架构搜索方
 法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CHC9ICB9DIE7ECA6FAA9IBAAIAA9BBC8EDA9FCG9BED9BDB)
@@ -99,5 +99,5 @@ redirect_from:
 
 # 💻 实习经历
 - *2019.03 - 2019.06*, 杭州群核科技有限公司, 算法工程师
-- *2019.10 - 2020.03, 杭州海康威视数字技术股份有限公司,算法工程师
+- 2019.10 - 2020.03, 杭州海康威视数字技术股份有限公司,算法工程师
 - *2020.05- 2020.09*, 之江实验室融合智能研究中心, 算法工程师
