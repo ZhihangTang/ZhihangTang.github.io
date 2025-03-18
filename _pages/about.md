@@ -42,8 +42,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 
--	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The IFIP International Conference on Network and Parallel Computing
-  2024 (NPC’24), CCF-C, full paper, Best Paper Award.  
+-	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The IFIP International Conference on Network and Parallel Computing  2024 (NPC’24), CCF-C, full paper, 🏆`Best Paper Award`.  
   [[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 </div>
@@ -56,13 +55,11 @@ redirect_from:
 
 ### 专利
 ---
-- 张铭扬, 高丰, `汤志航`, 杨涛, 郑欢欢, 王晓江, 郁善金.面向边缘计算的重参数神经网络架构搜索方
-法,中国, ZL202110991876.7,2021-08-27. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CHC9ICB9DIE7ECA6FAA9IBAAIAA9BBC8EDA9FCG9BED9BDB)
-- `汤志航`, 高丰, 杨涛, 郁善金, 郑欢欢, 王晓江.一种端边协同的视觉同步建图与定位系统及方法,中国,CN202110813841.4,2021-11-19. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=3ABA7CFA9HGG7BFA6DCA9GEB9AHG9IFF9HDE9EDG9AFA9EFB)
-- 朱春节, 周方, `汤志航,` 秦亦, 曾令仿, 何水兵.一种面向多并发深度学习训练任务的数据缓存方法和
-  装置,中国,CN202210632036.6，2022-08-30. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=8GAA6FBA9FIG9HGG9IDD7BGA9DAA9BID9HHH9DGA9GAADIGA)
-- `汤志航,`  赵来平.基于时空二维分割与智能共享的大模型并行任务调度方法, 中国, CN202411854410.2，
-  2024-12-17. [[网页]]()
+- 张铭扬, 高丰, `汤志航`, 杨涛, 郑欢欢, 王晓江, 郁善金. 面向边缘计算的重参数神经网络架构搜索方
+法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CHC9ICB9DIE7ECA6FAA9IBAAIAA9BBC8EDA9FCG9BED9BDB)
+- `汤志航`, 高丰, 杨涛, 郁善金, 郑欢欢, 王晓江. 一种端边协同的视觉同步建图与定位系统及方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=3ABA7CFA9HGG7BFA6DCA9GEB9AHG9IFF9HDE9EDG9AFA9EFB)
+- 朱春节, 周方, `汤志航,` 秦亦, 曾令仿, 何水兵. 一种面向多并发深度学习训练任务的数据缓存方法和装置. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=8GAA6FBA9FIG9HGG9IDD7BGA9DAA9BID9HHH9DGA9GAADIGA)
+- `汤志航,`  赵来平. 基于时空二维分割与智能共享的大模型并行任务调度方法. [[网页]]()
 
 <span class='anchor' id='-ryjx'></span>
 
