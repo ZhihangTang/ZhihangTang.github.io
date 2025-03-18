@@ -17,13 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-汤志航，之江实验室智能计算设施创新中心助理研究员。分别于2018 年、2021 年获得上海电力大学工学学士学位和浙江大学工学硕士学位，2023 年9 月至今在天津大学智能与计算学部攻读博士学位。主要研究方向为分布式计算、大模型系统、人工智能等。在相关领域发表论文和专利近十篇，获得IFIP NPC’24 最佳论文奖。
+# 👤 个人简介
+汤志航，之江实验室智能计算设施创新中心助理研究员。分别于2018 年、2021 年获得上海电力大学工学学士学位和浙江大学工学硕士学位，2023 年9 月至今在天津大学智能与计算学部攻读博士学位。主要研究方向为分布式计算、边缘计算、大模型系统、人工智能等。在相关领域发表论文和专利近十篇，获得IFIP NPC’24 最佳论文奖。
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-我的研究领域包括：
-- 分布式计算
-- 边缘计算
-- 人工智能
 
 <span class='anchor' id='-xl'></span>
 
@@ -41,6 +38,16 @@ redirect_from:
 ### 英文
 ---
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPC'24</div><img src='images/npc24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+-	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The IFIP International Conference on Network and Parallel Computing
+  2024 (NPC’24), CCF-C, full paper, Best Paper Award.  
+  [[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
+</div>
+</div>
 
 ### 中文
 ---
@@ -49,7 +56,13 @@ redirect_from:
 
 ### 专利
 ---
-
+- 张铭扬, 高丰, `汤志航`, 杨涛, 郑欢欢, 王晓江, 郁善金.面向边缘计算的重参数神经网络架构搜索方
+法,中国, ZL202110991876.7,2021-08-27. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CHC9ICB9DIE7ECA6FAA9IBAAIAA9BBC8EDA9FCG9BED9BDB)
+- `汤志航`, 高丰, 杨涛, 郁善金, 郑欢欢, 王晓江.一种端边协同的视觉同步建图与定位系统及方法,中国,CN202110813841.4,2021-11-19. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=3ABA7CFA9HGG7BFA6DCA9GEB9AHG9IFF9HDE9EDG9AFA9EFB)
+- 朱春节, 周方, `汤志航,` 秦亦, 曾令仿, 何水兵.一种面向多并发深度学习训练任务的数据缓存方法和
+  装置,中国,CN202210632036.6，2022-08-30. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=8GAA6FBA9FIG9HGG9IDD7BGA9DAA9BID9HHH9DGA9GAADIGA)
+- `汤志航,`  赵来平.基于时空二维分割与智能共享的大模型并行任务调度方法, 中国, CN202411854410.2，
+  2024-12-17. [[网页]]()
 
 <span class='anchor' id='-ryjx'></span>
 
