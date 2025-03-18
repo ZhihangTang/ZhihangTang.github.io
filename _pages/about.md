@@ -37,7 +37,7 @@ redirect_from:
 # 💻 工作经历
 - *2015.09 - 2017.09*, <a href="http://www.81.cn/wj_208567/index.html"><img class="svg" src="/images/pap.jpg" width="21pt"></a> 中国人民武装警察部队，侦察员
 - *2021.04 - 至今*, <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="21pt"></a> 之江实验室 智能计算设施创新中心, 助理研究员
-- *2022.07 - 2024.08*, <a href="https://www.htrdc.com/gjszx/"><img class="svg" src="/images/htrdc_logp.jpg" width="21pt"></a> 国家自然科学基金委员会高技术研究发展中心, 项目管理
+- *2022.07 - 2024.08*, <a href="https://www.htrdc.com/gjszx/"><img class="svg" src="/images/htrdc_logp.png" width="21pt"></a> 国家自然科学基金委员会高技术研究发展中心(借调), 项目管理
 
 <span class='anchor' id='-lwzl'></span>
 
