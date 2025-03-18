@@ -25,9 +25,15 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 教育背景
-- *2023.09 - 2027.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.svg" width="23pt"></a> 天津大学 智能与计算学部,电子信息（计算机技术） ，博士研究生
-- *2018.09 - 2021.03*, <a href="https://www.zju.edu.cn/"><img class="svg" src="/images/zju_logo.svg" width="23pt"></a> 浙江大学 控制科学与工程学院, 控制科学与工程 ，硕士
-- *2012.09 - 2018.06*, <a href="https://www.shiep.edu.cn/"><img class="svg" src="/images/suep_logo.svg" width="23pt"></a> 上海电力大学 自动化工程学院, 自动化, 学士
+- *2023.09 - 2027.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.svg" width="21pt"></a> 天津大学 智能与计算学部,电子信息（计算机技术） ，博士研究生
+- *2018.09 - 2021.03*, <a href="https://www.zju.edu.cn/"><img class="svg" src="/images/zju_logo.svg" width="21pt"></a> 浙江大学 控制科学与工程学院, 控制科学与工程 ，硕士
+- *2012.09 - 2018.06*, <a href="https://www.shiep.edu.cn/"><img class="svg" src="/images/suep_logo.svg" width="21pt"></a> 上海电力大学 自动化工程学院, 自动化, 学士
+
+<span class='anchor' id='-lwzl'></span>
+
+# 💻 工作经历
+- *2015.09 - 2017.09*, <a href="/"><img class="svg" src="/images/pap.jpg" width="21pt"></a> 中国人民武装警察部队，侦察员
+- *2021.04 - 至今*, <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="21pt"></a> 之江实验室 智能计算设施创新中心, 助理研究员
 
 <span class='anchor' id='-lwzl'></span>
 
@@ -40,8 +46,6 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPC'24</div><img src='images/npc24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
 -	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The IFIP International Conference on Network and Parallel Computing  2024 (NPC’24), CCF-C, full paper, 🏆`Best Paper Award`.  
   [[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
