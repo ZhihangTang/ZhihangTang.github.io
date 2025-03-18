@@ -4,7 +4,7 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
+  - /about-en/
   - /about-en.html
 ---
 
