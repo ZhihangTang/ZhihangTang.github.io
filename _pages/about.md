@@ -19,8 +19,11 @@ redirect_from:
 
 # 👤 个人简介
 汤志航，之江实验室智能计算设施创新中心助理研究员。分别于2018 年、2021 年获得上海电力大学工学学士学位和浙江大学工学硕士学位，2023 年9 月至今在天津大学智能与计算学部攻读博士学位。主要研究方向为分布式计算、边缘计算、大模型系统、人工智能等。在相关领域发表论文和专利近十篇，获得IFIP NPC’24 最佳论文奖。
- <a href='https://scholar.google.com/citations?user=XXXXXXX'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
+<!--
+
+ <a href='https://scholar.google.com/citations?user=XXXXXXX'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+-->
 
 <span class='anchor' id='-jybj'></span>
 
@@ -90,7 +93,7 @@ redirect_from:
 
 # 🏛️ 学术会议
 - *2024.12*,The IFIP International Conference on Network and Parallel Computing(NPC'24)  , 海南海口, 受邀报告
-- *201X.09*, XX会议 (XX 2019), 江苏南京, 海报
+<!-- -  *201X.09*, XX会议 (XX 2019), 江苏南京, 海报-->
 
 <span class='anchor' id='-gzsx'></span>
 
