@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "汤志航"
-description              : "分布式计算、并行计算"
+description              : ""
 repository               : "ZhihangTang/zhihang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "汤志航"
   avatar           : "images/tzh.jpg"
-  bio              : "之江实验室"
+  bio              : "助理研究员"
   location         : "浙江 杭州"
-  employer         : #"Zhejianglab"
+  employer         : "之江实验室"
   pubmed           : 
   googlescholar    : e.g.,#"https://scholar.google.com/"
   email            : "tangzhihang@zju.edu.cn"
