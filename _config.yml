@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "汤志航"
   avatar           : "images/tzh.jpg"
-  bio              : "助理研究员"
+  bio              : "之江实验室，智能计算设施创新中心"
   location         : "浙江 杭州"
-  employer         : "之江实验室"
+  employer         : #""
   pubmed           : 
   googlescholar    : e.g.,#"https://scholar.google.com/"
   email            : "tangzhihang@zju.edu.cn"
