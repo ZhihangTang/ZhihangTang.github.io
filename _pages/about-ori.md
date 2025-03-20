@@ -1,7 +1,7 @@
 ---
-permalink: /
+permalink: /ori/
 title: ""
-excerpt: "/ori/"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
