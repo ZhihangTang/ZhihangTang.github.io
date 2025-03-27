@@ -53,13 +53,17 @@ redirect_from:
 </div>
 </div>
 
-- `Zhihang Tang`,Chenxi Li, Xiang Yang, Bo He, Qi Qi, Jingyu Wang, Laiping Zhao. Shuffle-Exchange: Enhancing Collective Communication Efficiency for Large Model Training. The 45th IEEE International Conference on Distributed Computing Systems 2025 (*ICDCS’25*), CCF-B, full paper,Under Reviewing. 
+- `Zhihang Tang`,Chenxi Li, Xiang Yang, Bo He, Qi Qi, Jingyu Wang, Laiping Zhao. Shuffle-Exchange: Enhancing Collective Communication Efficiency for Large Model Training. The 45th IEEE International Conference on Distributed Computing Systems 2025 (*ICDCS’25*), CCF-B, full paper,`Accepted`. 
 [[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
 
 ### 期刊论文
 ---
 
+- `Zhihang Tang`,Zhaopeng Feng, Yan Zhang, Zuozhu Liu, LaipingZhao and Keqiu Li. Learning Sentence Representation from Generated Noisy Sentence Pairs. Journal of Computer Science and Technology (*JCST 2025*), CCF-B, full paper,UndUnder Revising. 
+[[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
 
+
+ 
 
 ### 发明专利
 ---
