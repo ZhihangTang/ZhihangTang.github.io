@@ -48,7 +48,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPC'24</div><img src='images/npc24.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The IFIP International Conference on Network and Parallel Computing  2024 (*NPC’24*), CCF-C, full paper, 🏆`Best Paper Award`.  
-  [[网页]](https://https://link.springer.com/chapter/10.1007/978-981-96-2830-8_35) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+  [[网页]](https://link.springer.com/chapter/10.1007/978-981-96-2830-8_35) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/NPC24_RFaaSFunctionSchedulingAcross HeterogeneousClusters.pdf)
 
 </div>
 </div>
