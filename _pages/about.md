@@ -97,8 +97,8 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2024.12*,The IFIP International Conference on Network and Parallel Computing(NPC'24)  , 海南海口, 受邀报告
-- *2025.7*, 45th IEEE International Conference on Distributed Computing Systems(ICDCS'2025)  , 英国格拉斯哥, 受邀报告
+- *2024.12*,The 20th Annual IFIP International Conference on Network and Parallel Computing(NPC'24)  , 中国海口, 口头报告
+- *2025.7*, The 45th IEEE International Conference on Distributed Computing Systems(ICDCS'25)  , 英国格拉斯哥, 口头报告
 <!-- -  *201X.09*, XX会议 (XX 2019), 江苏南京, 海报-->
 
 <span class='anchor' id='-gzsx'></span>
