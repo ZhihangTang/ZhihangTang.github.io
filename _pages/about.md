@@ -47,13 +47,14 @@ redirect_from:
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPC'24</div><img src='images/npc24.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
--	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The IFIP International Conference on Network and Parallel Computing  2024 (*NPC’24*), CCF-C, full paper, 🏆`Best Paper Award`.  
-  [[网页]](https://link.springer.com/chapter/10.1007/978-981-96-2830-8_35) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/NPC24_RFaaSFunctionSchedulingAcross HeterogeneousClusters.pdf)
+-	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The IFIP International Conference on Network and Parallel Computing (*NPC’24*), CCF-C, full paper, 🏆`Best Paper Award`.  
+  [[网页]](https://link.springer.com/chapter/10.1007/978-981-96-2830-8_35) [[预览]](https://github.com/ZhihangTang/ZhihangTang.github.io/blob/master/pdf/NPC'24%2CRFaaSFunctionSchedulingAcross%20HeterogeneousClusters.pdf) [[下载]](/pdf/NPC24_RFaaSFunctionSchedulingAcross HeterogeneousClusters.pdf)
+
 
 </div>
 </div>
 
-- `Zhihang Tang`,Chenxi Li, Xiang Yang, Bo He, Qi Qi, Jingyu Wang, Laiping Zhao. Shuffle-Exchange: Enhancing Collective Communication Efficiency for Large Model Training. The 45th IEEE International Conference on Distributed Computing Systems 2025 (*ICDCS’25*), CCF-B, full paper,`Accepted`. 
+- `Zhihang Tang`,Chenxi Li, Xiang Yang, Bo He, Qi Qi, Jingyu Wang, Laiping Zhao. Shuffle-Exchange: Enhancing Collective Communication Efficiency for Large Model Training. The 45th IEEE International Conference on Distributed Computing Systems (*ICDCS’25*), CCF-B, full paper,`Accepted`. 
 [[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
 
 ### 期刊论文
@@ -96,6 +97,7 @@ redirect_from:
 
 # 🏛️ 学术会议
 - *2024.12*,The IFIP International Conference on Network and Parallel Computing(NPC'24)  , 海南海口, 受邀报告
+- *2025.7*, 45th IEEE International Conference on Distributed Computing Systems(ICDCS'2025)  , 英国格拉斯哥, 受邀报告
 <!-- -  *201X.09*, XX会议 (XX 2019), 江苏南京, 海报-->
 
 <span class='anchor' id='-gzsx'></span>
