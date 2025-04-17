@@ -35,7 +35,7 @@ redirect_from:
 <span class='anchor' id='-gzjl'></span>
 
 # 💻 工作经历
-- *2015.09 - 2017.09*, <a href="http://www.81.cn/wj_208567/index.html"><img class="svg" src="/images/pap.jpg" width="21pt"></a> 中国人民武装警察部队, 侦察员
+- *2015.09 - 2017.09*, <a href="http://www.81.cn/wj_208567/index.html"><img class="svg" src="/images/pap.jpg" width="21pt"></a> 中国人民武装警察8730部队特战分队, 侦察员
 - *2021.04 - 至今*, <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="21pt"></a> 之江实验室 智能计算设施创新中心, 助理研究员
 - *2022.07 - 2024.08*, <a href="https://www.htrdc.com/gjszx/"><img class="svg" src="/images/htrdc_logp.png" width="21pt"></a> 国家自然科学基金委员会高技术研究发展中心(借调), 项目管理
 
@@ -47,8 +47,9 @@ redirect_from:
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPC'24</div><img src='images/npc24.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
--	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The IFIP International Conference on Network and Parallel Computing (*NPC’24*), CCF-C, full paper, 🏆`Best Paper Award`.  
+-	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The 20th Annual IFIP International Conference on Network and Parallel Computing (*NPC’24*), CCF-C, full paper, 🏆`Best Paper Award`.  
   [[网页]](https://link.springer.com/chapter/10.1007/978-981-96-2830-8_35) [[预览]](https://github.com/ZhihangTang/ZhihangTang.github.io/blob/master/pdf/NPC'24%2CRFaaSFunctionSchedulingAcross%20HeterogeneousClusters.pdf) [[下载]](/pdf/NPC24_RFaaSFunctionSchedulingAcross HeterogeneousClusters.pdf)
+
 
 
 </div>
