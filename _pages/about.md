@@ -51,13 +51,14 @@ redirect_from:
   [[网页]](https://link.springer.com/chapter/10.1007/978-981-96-2830-8_35) [[预览]](https://github.com/ZhihangTang/ZhihangTang.github.io/blob/master/pdf/NPC'24%2CRFaaSFunctionSchedulingAcross%20HeterogeneousClusters.pdf) [[下载]](/pdf/NPC24_RFaaSFunctionSchedulingAcross HeterogeneousClusters.pdf)
 
 
-
 </div>
 </div>
 
 - `Zhihang Tang`,Chenxi Li, Xiang Yang, Bo He, Qi Qi, Jingyu Wang, Laiping Zhao. Shuffle-Exchange: Enhancing Collective Communication Efficiency for Large Model Training. The 45th IEEE International Conference on Distributed Computing Systems (*ICDCS’25*), CCF-B, full paper,`Accepted`. 
 [[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
 
+- `Zhihang Tang`,Weiqi Yuei, Baofu Wu, Binbin Huang, Laiping Zhao and Keqiu Li. Efficient Scheduling for Multiple Distributed DNN Training Tasks in Resource-constrained Edge Networks. The 54th International Conference on Parallel Processing  (ICPP’25), CCF-B, full paper, `Under Reviewing`.
+[[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
 ### 期刊论文
 ---
 
