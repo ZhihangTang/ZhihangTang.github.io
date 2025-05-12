@@ -100,13 +100,13 @@ redirect_from:
 
 # 🏛️ 学术会议
 - *2024.12*,The 20th Annual IFIP International Conference on Network and Parallel Computing(NPC'24)  , 中国海口, 口头报告
-- *2025.7*, The 45th IEEE International Conference on Distributed Computing Systems(ICDCS'25)  , 英国格拉斯哥, 口头报告
+- *2025.07*, The 45th IEEE International Conference on Distributed Computing Systems(ICDCS'25)  , 英国格拉斯哥, 口头报告
 <!-- -  *201X.09*, XX会议 (XX 2019), 江苏南京, 海报-->
 
 <span class='anchor' id='-xsjz'></span>
 
 # 💻 学术兼职
-中国计算机学会 网络与数据通信专委会 执行委员
+- 中国计算机学会 网络与数据通信专委会 执行委员
 
 <!-- - *2019.03 - 2019.06*, 杭州群核科技有限公司, 算法工程师
 - 2019.10 - 2020.03, 杭州海康威视数字技术股份有限公司,算法工程师
