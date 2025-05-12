@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 个人简介
-汤志航，之江实验室智能计算设施创新中心助理研究员，曾服役于中国人民警察8730部队。分别于2018 年、2021 年获得上海电力大学工学学士学位和浙江大学工学硕士学位，2023 年9 月至今在天津大学智能与计算学部攻读博士学位。主要研究方向为分布式计算、边缘计算、大模型系统、人工智能等。在相关领域发表论文和专利近十篇，获得IFIP NPC’24 最佳论文奖。
+汤志航，之江实验室高效能计算设施研究中心助理研究员，曾服役于中国人民警察8730部队。分别于2018 年、2021 年获得上海电力大学工学学士学位和浙江大学工学硕士学位，2023年9月至今在天津大学智能与计算学部攻读博士学位。主要研究方向为分布式计算、边缘计算、大模型系统、人工智能等。在相关领域发表论文和专利近十篇，获得IFIP NPC’24 最佳论文奖，担任中国计算机学会网络与数据通信专委会执行委员。
 
 <!--
 
@@ -59,6 +59,7 @@ redirect_from:
 
 - `Zhihang Tang`,Weiqi Yuei, Baofu Wu, Binbin Huang, Laiping Zhao and Keqiu Li. Efficient Scheduling for Multiple Distributed DNN Training Tasks in Resource-constrained Edge Networks. The 54th International Conference on Parallel Processing  (ICPP’25), CCF-B, full paper, `Under Reviewing`.
 [[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
+
 ### 期刊论文
 ---
 
@@ -102,9 +103,11 @@ redirect_from:
 - *2025.7*, The 45th IEEE International Conference on Distributed Computing Systems(ICDCS'25)  , 英国格拉斯哥, 口头报告
 <!-- -  *201X.09*, XX会议 (XX 2019), 江苏南京, 海报-->
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='-xsjz'></span>
 
-# 💻 实习经历
-- *2019.03 - 2019.06*, 杭州群核科技有限公司, 算法工程师
+# 💻 学术兼职
+中国计算机学会 网络与数据通信专委会 执行委员
+
+<!-- - *2019.03 - 2019.06*, 杭州群核科技有限公司, 算法工程师
 - 2019.10 - 2020.03, 杭州海康威视数字技术股份有限公司,算法工程师
-- *2020.05- 2020.09*, 之江实验室融合智能研究中心, 算法工程师
+- *2020.05- 2020.09*, 之江实验室融合智能研究中心, 算法工程师 -->
