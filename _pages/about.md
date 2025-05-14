@@ -108,7 +108,7 @@ redirect_from:
 
 - 2022.05   第26 届中国青年五四奖章集体
 
-- 2024.12   [[NPC 2024]] (https://www.npc-conference.com/#/npc2024) Best Paper Award (2/200)
+- 2024.12   [NPC 2024]](https://www.npc-conference.com/#/npc2024)  Best Paper Award (2/200)
 
   <!-- -  这是一段被注释掉的文字  *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  -->
 
