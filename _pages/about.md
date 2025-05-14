@@ -64,7 +64,7 @@ redirect_from:
 ---
 
 - `Zhihang Tang`,Zhaopeng Feng, Yan Zhang, Zuozhu Liu, LaipingZhao and Keqiu Li. Learning Sentence Representation from Generated Noisy Sentence Pairs. Journal of Computer Science and Technology (*JCST 2025*), CCF-B, Regular paper, `Under Revising`. 
-[[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
+[[网页]] (https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
 
 
 
@@ -72,9 +72,9 @@ redirect_from:
 ### 发明专利
 ---
 - 张铭扬, 高丰, `汤志航`, 杨涛, 郑欢欢, 王晓江, 郁善金. 面向边缘计算的重参数神经网络架构搜索方
-法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CHC9ICB9DIE7ECA6FAA9IBAAIAA9BBC8EDA9FCG9BED9BDB)
-- `汤志航`, 高丰, 杨涛, 郁善金, 郑欢欢, 王晓江. 一种端边协同的视觉同步建图与定位系统及方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=3ABA7CFA9HGG7BFA6DCA9GEB9AHG9IFF9HDE9EDG9AFA9EFB)
-- 朱春节, 周方, `汤志航,` 秦亦, 曾令仿, 何水兵. 一种面向多并发深度学习训练任务的数据缓存方法和装置. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=8GAA6FBA9FIG9HGG9IDD7BGA9DAA9BID9HHH9DGA9GAADIGA)
+法. [[网页]] (https://cprs.patentstar.com.cn/Search/Detail?ANE=9CHC9ICB9DIE7ECA6FAA9IBAAIAA9BBC8EDA9FCG9BED9BDB)
+- `汤志航`, 高丰, 杨涛, 郁善金, 郑欢欢, 王晓江. 一种端边协同的视觉同步建图与定位系统及方法. [[网页]] (https://cprs.patentstar.com.cn/Search/Detail?ANE=3ABA7CFA9HGG7BFA6DCA9GEB9AHG9IFF9HDE9EDG9AFA9EFB)
+- 朱春节, 周方, `汤志航,` 秦亦, 曾令仿, 何水兵. 一种面向多并发深度学习训练任务的数据缓存方法和装置. [[网页]] (https://cprs.patentstar.com.cn/Search/Detail?ANE=8GAA6FBA9FIG9HGG9IDD7BGA9DAA9BID9HHH9DGA9GAADIGA)
 - `汤志航,`  赵来平. 基于时空二维分割与智能共享的大模型并行任务调度方法. [[网页]]()
 
 <span class='anchor' id='-ryjx'></span>
@@ -108,7 +108,7 @@ redirect_from:
 
 - 2022.05   第26 届中国青年五四奖章集体
 
-- 2024.12   [[NPC 2024]](https://www.npc-conference.com/#/npc2024) Best Paper Award (2/200)
+- 2024.12   [[NPC 2024]] (https://www.npc-conference.com/#/npc2024) Best Paper Award (2/200)
 
   <!-- -  这是一段被注释掉的文字  *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  -->
 
