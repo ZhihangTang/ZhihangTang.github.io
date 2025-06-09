@@ -64,7 +64,7 @@ redirect_from:
 ---
 
 - `Zhihang Tang`,Zhaopeng Feng, Yan Zhang, Zuozhu Liu, LaipingZhao and Keqiu Li. Learning Sentence Representation from Generated Noisy Sentence Pairs. Journal of Computer Science and Technology (*JCST 2025*), CCF-B, Regular paper, `Under Revising`. 
-[[网页]] (https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
+[[网页]](https://) [[预览]]() [[下载]](/pdf/GNP-SE.pdf)
 
 
 
