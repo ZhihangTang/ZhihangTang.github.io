@@ -50,15 +50,14 @@ redirect_from:
 -	`Zhihang Tang `, Yiming Li, Zezheng Mao, Laiping Zhao and Keqiu Li. RFaaS: Function Scheduling Across Heterogeneous Clusters. The 20th Annual IFIP International Conference on Network and Parallel Computing (*NPC’24*), CCF-C, full paper, 🏆`Best Paper Award`.  
   [[网页]](https://link.springer.com/chapter/10.1007/978-981-96-2830-8_35) [[预览]](https://github.com/ZhihangTang/ZhihangTang.github.io/blob/master/pdf/NPC'24%2CRFaaSFunctionSchedulingAcross%20HeterogeneousClusters.pdf) [[下载]](/pdf/NPC24_RFaaSFunctionSchedulingAcross HeterogeneousClusters.pdf)
 
-
 </div>
 </div>
 
 - `Zhihang Tang`,Chenxi Li, Xiang Yang, Bo He, Qi Qi, Jingyu Wang, Laiping Zhao. Shuffle-Exchange: Enhancing Collective Communication Efficiency for Large Model Training. The 45th IEEE International Conference on Distributed Computing Systems (*ICDCS’25*), CCF-B, full paper,`Accepted`. 
 [[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
 
-<!-- - `Zhihang Tang`,Weiqi Yuei, Baofu Wu, Binbin Huang, Laiping Zhao and Keqiu Li. Efficient Scheduling for Multiple Distributed DNN Training Tasks in Resource-constrained Edge Networks. The 54th International Conference on Parallel Processing  (ICPP’25), CCF-B, full paper, `Under Reviewing`.
-[[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf) -->
+- `Zhihang Tang`,Weiqi Yuei, Baofu Wu, Binbin Huang, Laiping Zhao and Keqiu Li. Efficient Scheduling for Multiple Distributed DNN Training Tasks in Resource-constrained Edge Networks. The 31th IEEE International Conference on Parallel and Distributed Systems (ICPADS’25), CCF-C, full paper, `Under Reviewing`.
+[[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
 
 ### 期刊论文
 ---
@@ -119,6 +118,7 @@ redirect_from:
 # 🏛️ 学术会议
 - *2024.12*,The 20th Annual IFIP International Conference on Network and Parallel Computing(NPC'24)  , 中国海口, 口头报告
 - *2025.07*, The 45th IEEE International Conference on Distributed Computing Systems(ICDCS'25)  , 英国格拉斯哥, 口头报告
+- *2025.08*, CCF ChinaStorage 2025, 中国武汉, 海报 
 <!-- -  *201X.09*, XX会议 (XX 2019), 江苏南京, 海报-->
 
 <span class='anchor' id='-xsjz'></span>
